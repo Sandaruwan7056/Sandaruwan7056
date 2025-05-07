@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Sandaruwan  
-💻 Im a Frontend Developer specializing in **React**.  
+💻 Im a Frontend Developer specialized  in **React**.  
 🚀 Currently working on a Tourism Guide Website.  
 🌱 Currently expanding my skills in **backend development with Laravel**.  
 🚀 Open to freelance projects and collaborations.  
-
 
 <!--
 **Sandaruwan7056/Sandaruwan7056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
