@@ -18,9 +18,10 @@
 
 ### 📈 GitHub Stats
 
-![Sandaruwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandaruwan7056&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandaruwan7056&theme=tokyonight)
+<div align="start">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sandaruwan7056&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandaruwan7056&theme=tokyonight" />
+</div>
 
 
 <!--
