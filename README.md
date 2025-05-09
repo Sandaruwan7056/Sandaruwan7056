@@ -4,6 +4,12 @@
 🌱 Currently expanding my skills in **backend development with Laravel**.  
 🚀 Open to freelance projects and collaborations.  
 
+### ✨  Projects
+
+  ### ✅ Completed  
+
+  - [Tourism Website] (https://www.marvellousceylonholidays.com)
+
 ### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
