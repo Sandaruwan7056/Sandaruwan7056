@@ -18,9 +18,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![EXPRESSJS](https://img.shields.io/badge/expressjs-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MONGODB](https://img.shields.io/badge/mongodb-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NODEJS](https://img.shields.io/badge/nodejs-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![EXPRESSJS](https://img.shields.io/badge/expressjs-%23777BB4.svg?style=for-the-badge&logo=expressjs&logoColor=white)
+![MONGODB](https://img.shields.io/badge/mongodb-4479A1.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NODEJS](https://img.shields.io/badge/nodejs-%23FF2D20.svg?style=for-the-badge&logo=nodejs&logoColor=white)
 
 ### 📈 GitHub Stats
 
