@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Sandaruwan  
-💻 Im a Frontend Developer specialized  in **React**.  
-🚀 Currently working on a Tourism Guide Website.  
-🌱 Currently expanding my skills in **backend development with Laravel**.  
+💻 Im a Software Engineer specialized in Modern Web applications.  
 🚀 Open to freelance projects and collaborations.  
 
 ### ✨  Projects
@@ -9,6 +7,7 @@
   ### ✅ Completed  
 
   - [Tourism Website] (https://www.marvellousceylonholidays.com)
+  - [Project Comparison Website] (https://rakcompare.ae)
 
 ### 🛠️ Tech Stack
 
