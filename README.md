@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sandaruwan  
-💻 Im a Software Engineer specialized in Modern Web applications.  
+💻 Im a Associate Software Engineer & Freelance Full-Stack specialized in Modern Web applications.  
 🚀 Open to freelance projects and collaborations.  
 
 <!--
