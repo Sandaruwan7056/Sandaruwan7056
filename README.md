@@ -2,6 +2,15 @@
 💻 Im a Software Engineer specialized in Modern Web applications.  
 🚀 Open to freelance projects and collaborations.  
 
+<!--
+### ✨  Projects
+
+  ### ✅ Completed  
+
+  - [Tourism Website] (https://www.marvellousceylonholidays.com)
+  - [Project Comparison Website] (https://rakcompare.ae)
+
+-->
 
 ### 🛠️ Tech Stack
 
